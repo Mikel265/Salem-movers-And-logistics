@@ -53,24 +53,4 @@ A bold, modern, high-converting commercial website for **Salem Movers And Logist
 
 ---
 
-## Getting Started & Development
-
-To run locally:
-```bash
-npm install
-npm run dev
-```
-
-To build for production:
-```bash
-npm run build
-```
-The output will be generated in `dist/`.
-
----
-
-## Configuration
-
-To update company assets or business info, edit `src/config/business.ts`.
-=======
 # Salem-movers-And-logistics
