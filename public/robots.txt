@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://salemmovers.co.ke/sitemap.xml
